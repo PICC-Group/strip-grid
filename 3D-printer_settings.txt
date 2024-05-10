@@ -1,0 +1,5 @@
+3D-printer settings
+Material: PLA, 
+Infill: 50%, cubic
+Layer height: 0.2mm
+Top/bottom thickness: 0.8mm
